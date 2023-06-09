@@ -1,4 +1,4 @@
-# Ejercicio 06
+- Ejercicio 06
 
 int llegados = 0;
 bool comenzar = false;

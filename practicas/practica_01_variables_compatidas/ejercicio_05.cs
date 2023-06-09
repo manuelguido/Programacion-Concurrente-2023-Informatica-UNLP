@@ -1,6 +1,6 @@
-# Ejercicio 05
+- Ejercicio 05
 
-## a)
+-- a)
 
 usando_impresora = 0;
 
@@ -12,7 +12,7 @@ Process Persona[ i = 1 .. N] {
   }
 }
 
-## b)
+-- b)
 
 int siguiente = -1;
 int cola_espera[N];
@@ -32,7 +32,7 @@ Process Persona[ id = 1 .. N] {
   }
 }
 
-## c)
+-- c)
 
 int siguiente = -1;
 colaEspecial cola_espera[N];
@@ -50,7 +50,7 @@ Process Persona[ id = 0 .. N - 1 ] {
     siguiente = cola_espera.minimo();>
 }
 
-## d)
+-- d)
 
 int siguiente = 1;
 
@@ -60,7 +60,7 @@ Process Persona[ id = 0 .. N-1 ] {
   siguiente++;
 }
 
-## e)
+-- e)
 
 int siguiente = -1;
 bool impresora_libre = true;

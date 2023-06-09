@@ -1,6 +1,6 @@
-# Ejercicio 03
+- Ejercicio 03
 
-## a)
+-- a)
 
 Process Productor::
 {
@@ -24,7 +24,7 @@ Process Consumidor::
   }
 }
 
-## b)
+-- b)
 
 int cant = 0; int pri_vacia = 0; int pri_ocupada = 0;
 int buffer[N];

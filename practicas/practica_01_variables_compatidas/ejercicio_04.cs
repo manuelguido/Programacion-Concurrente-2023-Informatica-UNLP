@@ -1,4 +1,4 @@
-# Ejercicio 04
+- Ejercicio 04
 
 tipo_impresora cola_impresoras[5];
 int usando_imp = 0;

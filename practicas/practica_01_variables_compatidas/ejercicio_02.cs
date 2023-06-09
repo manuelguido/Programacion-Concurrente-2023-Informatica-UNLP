@@ -1,6 +1,6 @@
-# Ejercicio 02
+- Ejercicio 02
 
-## Solución 01
+-- Solución 01
 
 Process Verificar::
 {
@@ -9,7 +9,7 @@ Process Verificar::
   }
 }
 
-## Solución 02
+-- Solución 02
 
 Process Verificar::[ i=1 to M ]
 {
